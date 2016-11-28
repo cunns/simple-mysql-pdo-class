@@ -1,0 +1,17 @@
+{
+  "name": "cunns/simple-mysql-pdo-class",
+  "description" : "A Simple MySQL PDO Class",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Youssef ES-SEQALLY",
+      "email": "youssef.seqally@gmail.com"
+    }
+  ],
+  "require" : {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "files": [ "DB.class.php" ]
+  }
+}
